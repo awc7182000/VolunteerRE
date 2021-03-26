@@ -1,0 +1,22 @@
+.contact{
+        padding: 2.5rem;
+        background: #fff;
+}
+
+.credit{
+    color: #7865db;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.fas.fa-phone{
+    margin-right: 10px;
+}
+
+.fas.fa-map-marker-alt{
+    margin-right: 10px;
+}
+
+.fas.fa-mail-bulk{
+    margin-right: 10px;
+}
